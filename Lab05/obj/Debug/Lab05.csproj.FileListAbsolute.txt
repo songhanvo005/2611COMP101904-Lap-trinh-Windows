@@ -1,0 +1,10 @@
+C:\2611COMP101904-Lap-trinh-Windows\Lab05\obj\Debug\Lab05.csproj.AssemblyReference.cache
+C:\2611COMP101904-Lap-trinh-Windows\Lab05\obj\Debug\Lab05.Form1.resources
+C:\2611COMP101904-Lap-trinh-Windows\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+C:\2611COMP101904-Lap-trinh-Windows\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+C:\2611COMP101904-Lap-trinh-Windows\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+C:\2611COMP101904-Lap-trinh-Windows\Lab05\bin\Debug\Lab05.exe.config
+C:\2611COMP101904-Lap-trinh-Windows\Lab05\bin\Debug\Lab05.exe
+C:\2611COMP101904-Lap-trinh-Windows\Lab05\bin\Debug\Lab05.pdb
+C:\2611COMP101904-Lap-trinh-Windows\Lab05\obj\Debug\Lab05.exe
+C:\2611COMP101904-Lap-trinh-Windows\Lab05\obj\Debug\Lab05.pdb
