@@ -1,0 +1,7 @@
+C:\2611COMP101904-Lap-trinh-Windows\Lab03\bin\Debug\Lab03.exe.config
+C:\2611COMP101904-Lap-trinh-Windows\Lab03\bin\Debug\Lab03.exe
+C:\2611COMP101904-Lap-trinh-Windows\Lab03\bin\Debug\Lab03.pdb
+C:\2611COMP101904-Lap-trinh-Windows\Lab03\obj\Debug\Lab03.csproj.AssemblyReference.cache
+C:\2611COMP101904-Lap-trinh-Windows\Lab03\obj\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\2611COMP101904-Lap-trinh-Windows\Lab03\obj\Debug\Lab03.exe
+C:\2611COMP101904-Lap-trinh-Windows\Lab03\obj\Debug\Lab03.pdb
