@@ -1,0 +1,7 @@
+C:\2611COMP101904-Lap-trinh-Windows\Lab04\bin\Debug\Lab04.exe.config
+C:\2611COMP101904-Lap-trinh-Windows\Lab04\bin\Debug\Lab04.exe
+C:\2611COMP101904-Lap-trinh-Windows\Lab04\bin\Debug\Lab04.pdb
+C:\2611COMP101904-Lap-trinh-Windows\Lab04\obj\Debug\Lab04.csproj.AssemblyReference.cache
+C:\2611COMP101904-Lap-trinh-Windows\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\2611COMP101904-Lap-trinh-Windows\Lab04\obj\Debug\Lab04.exe
+C:\2611COMP101904-Lap-trinh-Windows\Lab04\obj\Debug\Lab04.pdb
