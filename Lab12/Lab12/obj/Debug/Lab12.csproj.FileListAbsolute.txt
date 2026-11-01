@@ -1,0 +1,9 @@
+C:\2611COMP101904-Lap-trinh-Windows\Lab12\Lab12\bin\Debug\Lab12.exe.config
+C:\2611COMP101904-Lap-trinh-Windows\Lab12\Lab12\bin\Debug\Lab12.exe
+C:\2611COMP101904-Lap-trinh-Windows\Lab12\Lab12\bin\Debug\Lab12.pdb
+C:\2611COMP101904-Lap-trinh-Windows\Lab12\Lab12\obj\Debug\Lab12.csproj.AssemblyReference.cache
+C:\2611COMP101904-Lap-trinh-Windows\Lab12\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+C:\2611COMP101904-Lap-trinh-Windows\Lab12\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+C:\2611COMP101904-Lap-trinh-Windows\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+C:\2611COMP101904-Lap-trinh-Windows\Lab12\Lab12\obj\Debug\Lab12.exe
+C:\2611COMP101904-Lap-trinh-Windows\Lab12\Lab12\obj\Debug\Lab12.pdb
